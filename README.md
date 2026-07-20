@@ -2,3 +2,4 @@
 This is my Linux Day6 Git project.
 I am learning Git on Linux.
 
+Need to remove staging later
