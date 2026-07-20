@@ -1,5 +1,5 @@
 # Git Practice
-This is my Linux Day6 Git project.
+This line comes from conflict-test branch.
 I am learning Git on Linux.
 
 Need to remove staging later
